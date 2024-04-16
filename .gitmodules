@@ -1,0 +1,3 @@
+[submodule "subprojeto"]
+	path = subprojeto
+	url = https://github.com/Lipe-Jundsoft/Dependencias_Basic.git
