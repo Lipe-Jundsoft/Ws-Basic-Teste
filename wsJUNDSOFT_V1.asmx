@@ -1,0 +1,1 @@
+<%@ WebService Class="wsJUNDSOFT_V1.wsJUNDSOFT_V1" %>
